@@ -1,3 +1,3 @@
-# makine-renmesi
-makine öğrenmesi ile alakalı çalışmalar yapılmıştır.
-Eğitim projelerim 
+# makine_ogrenmesi
+Makine öğrenmesi ile alakalı eğitim amaçlı çalışmalarımız mevcuttur.
+
